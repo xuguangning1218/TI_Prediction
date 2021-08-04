@@ -5,7 +5,7 @@ Official source code for paper 《SAF-Net: A Spatio-Temporal Deep Learning Metho
 
 * Step 1. Install the requirement environment 
 ```
-pip install requirements.txt
+conda env create -f TI_Prediction.yaml
 ```  
 ---
 
