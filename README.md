@@ -28,4 +28,4 @@ or download the preprocessing data from my google drive
 
 ## Overall Architecture of SAF-Net
 
-![image](https://github.com/xuguangning1218/TI_Prediction/blob/master/Figure/Model.pdf)
+![image](https://github.com/xuguangning1218/TI_Prediction/blob/master/figure/Model.png)
