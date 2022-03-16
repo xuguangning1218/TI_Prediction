@@ -32,13 +32,15 @@ or download the preprocessing data from my google drive
 
 If you think our work is helpful. Please kindly cite
 ```
-@article{XU2021,
-  title = {SAF-Net: A spatio-temporal deep learning method for typhoon intensity prediction},
-  journal = {Pattern Recognition Letters},
-  year = {2021},
-  issn = {0167-8655},
-  doi = {https://doi.org/10.1016/j.patrec.2021.11.012},
-  url = {https://www.sciencedirect.com/science/article/pii/S0167865521004037},
-  author = {Guangning Xu and Kenghong Lin and Xutao Li and Yunming Ye},
+@article{XU2022121,
+title = {SAF-Net: A spatio-temporal deep learning method for typhoon intensity prediction},
+journal = {Pattern Recognition Letters},
+volume = {155},
+pages = {121-127},
+year = {2022},
+issn = {0167-8655},
+doi = {https://doi.org/10.1016/j.patrec.2021.11.012},
+url = {https://www.sciencedirect.com/science/article/pii/S0167865521004037},
+author = {Guangning Xu and Kenghong Lin and Xutao Li and Yunming Ye},
 }
 ```
